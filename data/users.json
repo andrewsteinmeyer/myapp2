@@ -1,0 +1,12 @@
+{
+  "carrie": {
+    "username": "carrie",
+    "name": "Carrie Steinmeyer",
+    "bio": "Dancer"
+  },
+  "andrew": {
+    "username": "andrew",
+    "name": "Andrew Steinmeyer",
+    "bio": "Hacker"
+  }
+}
